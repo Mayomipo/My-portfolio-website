@@ -924,7 +924,9 @@ footer {
     .hero-content h2 {
         font-size: 1.4rem;
     }
-    
+    .hero-image {
+        display: none;
+    }
     .hero-shape {
         width: 250px;
         height: 250px;
